@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://console.cloud.tencent.com/lighthouse/instance/detail?rid=8&id=lhins-n223tkry"
+}

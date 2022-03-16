@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Easonj:Atlas@cluster0.6swef.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
